@@ -35,9 +35,10 @@ subtitle: 코린이의 성장일기
 description: >- # this means to ignore newlines until "baseurl:"
   This is the demo site for a Jekyll theme version of
   HTML5 UP's sleek, responsive site template Prologue.
-author: Your Incredible Name
-email: your-email@example.com
-avatar: assets/images/avatar.jpg
+author: Deokjoong Lee
+email: deokjoong@korea.ac.kr
+avatar: assets/images/profile.jpg
+cover-photo: assets/images/
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
