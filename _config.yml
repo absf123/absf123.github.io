@@ -30,7 +30,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: absf123's medical AI 
+title: Medical AI 
 subtitle: 코린이의 성장일기 
 description: >- # this means to ignore newlines until "baseurl:"
   This is the demo site for a Jekyll theme version of
@@ -61,5 +61,5 @@ dribbble_url:
 google_analytics:
 
 # The following settings are NECESSARY for the Prologue theme to run:
-theme: jekyll-theme-prologue
+#theme: jekyll-theme-prologue
 collections: [sections]
