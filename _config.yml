@@ -41,7 +41,7 @@ avatar: assets/images/profile.jpg
 cover-photo: assets/images/
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://github.com/absf123/absf123.github.io.git" # the base hostname & protocol for your site
 
 # Social settings
